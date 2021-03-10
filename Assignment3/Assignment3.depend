@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1574610016 source:c:\users\tasfi\onedrive - university of wollongong\uow\uow\semester 3\csci251_advance_programming\assignment\assignment3\assignment3\main.cpp
+	<iostream>
+	<set>
+	<iterator>
+	<map>
+	<fstream>
+	<string>
+	<cstdlib>
+	<queue>
+	"SportFacility.h"
+	"Member.h"
+
+1574610240 source:c:\users\tasfi\onedrive - university of wollongong\uow\uow\semester 3\csci251_advance_programming\assignment\assignment3\assignment3\sportfacility.cpp
+	"SportFacility.h"
+	<iostream>
+	<set>
+	<iterator>
+	<map>
+	<fstream>
+	<string>
+	<cstdlib>
+	<queue>
+
+1574608183 c:\users\tasfi\onedrive - university of wollongong\uow\uow\semester 3\csci251_advance_programming\assignment\assignment3\assignment3\sportfacility.h
+	<iostream>
+	<set>
+	<iterator>
+	<map>
+	<fstream>
+	<string>
+	<cstdlib>
+	<queue>
+
+1574610240 source:c:\users\tasfi\onedrive - university of wollongong\uow\uow\semester 3\csci251_advance_programming\assignment\assignment3\assignment3\member.cpp
+	"Member.h"
+	<iostream>
+	<set>
+	<iterator>
+	<map>
+	<fstream>
+	<string>
+	<cstdlib>
+	<queue>
+
+1574608821 c:\users\tasfi\onedrive - university of wollongong\uow\uow\semester 3\csci251_advance_programming\assignment\assignment3\assignment3\member.h
+	<iostream>
+	<set>
+	<iterator>
+	<map>
+	<fstream>
+	<string>
+	<cstdlib>
+	<queue>
+
